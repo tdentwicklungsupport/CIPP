@@ -3,7 +3,7 @@
     "allowedIpRanges": [
       "78.42.162.145/32"
     ]
-  }
+  },
   "routes": [
     {
       "route": "/static/*",
